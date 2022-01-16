@@ -2,12 +2,16 @@
 
 ## Here you can find my first proyects of data science
 
-### NLP topic classification
+### NLP -  Topic Classification
+Using Pre-train arquitecture BERT with spanish dataset. Fine-tune with an specific corpus.
 
-### NLP sentiment classification 
+### NLP - Sentiment classification 
+Using Pre-train arquitecture BERT with spanish dataset. Fine-tune with an specific corpus.
 
-### Decision Tree for fraud prevention
+### Decision Tree for Fraud Prevention
+
 
 ### Web scrapping competition prices
+Generate a dataset with all the information of the competition like price, size, quantity, seller, etc.
 
-### Automátic report with vizualization
+### Generate automátic report with vizualization
