@@ -1,6 +1,6 @@
-# First Steps
+# Data Science proyects
 
-## Here you can find my first proyects of data science
+## Here you can find some of my proyects of data science
 
 ### NLP -  Topic Classification
 Using Pre-train arquitecture BERT with spanish dataset. Fine-tune with an specific corpus.
