@@ -1,7 +1,0 @@
-import pandas as pd
-
-
-hhhhhhhhhhhhhhhhhhhh
-v='hello'
-esto es una modificacion despues del commit
-print (v)
